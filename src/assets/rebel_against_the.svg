@@ -1,0 +1,21 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1143.9 590.2" className="HeroSplitTextDesktop_desktop__Bey7n">
+  <defs>
+    <mask id="rebel-mask">
+      <rect className="rebelMask" x="0" y="0" width="591.4" height="166.8" style="fill: rgb(255, 255, 255);" />
+    </mask>
+    <mask id="against-mask">
+      <rect className="againstMask" x="246.6" y="164.3" width="897.3" height="231" style="fill: rgb(255, 255, 255);" />
+    </mask>
+    <mask id="the-mask">
+      <rect className="theMask" x="0" y="383.7" width="355.7" height="154.4" style="fill: rgb(255, 255, 255);" />
+    </mask>
+  </defs>
+  <g>
+    <g style="transform: none;">
+      <text x="0" y="100" fill="black" font-family="Arial" font-size="100" mask="url(#rebel-mask)">REBEL</text>
+      <text x="250" y="300" fill="black" font-family="Arial" font-size="100" mask="url(#against-mask)">AGAINST</text>
+      <text x="0" y="500" fill="black" font-family="Arial" font-size="100" mask="url(#the-mask)">THE</text>
+    </g>
+  </g>
+</svg>
